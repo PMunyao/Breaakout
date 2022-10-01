@@ -1,0 +1,1 @@
+this project is a culmination of a command line implementation for runnnig the game breakout, it containers class methods conatained in the files Ball.py BonusBrick.py Brick.py Game.py Paddle.py README.md and Runner.py. THe Runner.py is the file that executes the methods and classes int the required order to run the game - BreakOut -
